@@ -62,9 +62,9 @@ This project showcases the integration of machine learning and web application d
 
 ---
 
-**Code Repository:** [Attach GitHub/Code Link]
+**Code Repository:** [Attach GitHub/Code Li](https://github.com/nagashreekala/breast-/tree/main)]
 
-**Developed By:** [Your Name]
+**Developed By:** [project team]
 
-**Date:** [Insert Date]
+
 
